@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : c0402.dra                                     )
+(    Software Version : 16.6S024                                      )
+(    Date/Time        : Mon Jan 08 03:05:41 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Inbound/RTC/Allegro/GoogleDrive/lib/symbols
+    Name      = c0402.psm
+    User      = Vova
+    Machine   = RTC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
