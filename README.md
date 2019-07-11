@@ -16,6 +16,9 @@ User Preference Editor -> Paths -> Library
 Указать путь до папки с pad падами в padpath;
              до папки с psm падов в psmpath;
              до папки с step моделями в steppath.
+             
+Подключение 3Д моделей:
+Setup -> Step Package Mapping -> Library
 
 Распределение слоев:
 - Package Geometry/Silkscreen_Top - шелкография на верхнем слое;
