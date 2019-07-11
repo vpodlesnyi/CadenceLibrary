@@ -21,10 +21,11 @@ User Preference Editor -> Paths -> Library
 Setup -> Step Package Mapping -> Library
 
 Распределение слоев:
-- Package Geometry/Silkscreen_Top - шелкография на верхнем слое;
-- Package Geometry/Silkscreen_Bottom - шелкография на нижнем слое;
-- Package Geometry/Assembly_Top - контур компонента для КД на верхнем слое;
-- Package Geometry/Assembly_Bottom - контур компонента для КД на верхнем слое;
+- Package Geometry/Silkscreen_Top - шелкография на верхнем слое (толщина линий 0,2 мм);
+- Package Geometry/Assembly_Top - контур компонента для обозначения в КД (толщина линий 0,15 мм);
+- Package Geometry/Place_Bound_Top - корпус 3d модели компонента;
+- Ref Des/Silkscreen_Top - позиционное обозначение(Designator) шелкография на верхнем слое (толщина линий 0,2 мм);
+- Ref Des/Assembly_Top - позиционное обозначение(Designator) для обозначения в КД (высота текста 3,5 мм);
 
 - pads папка содержит набор контактных площадок;
 - step папка содержит набор step-моделей компонентов; 
