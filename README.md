@@ -20,6 +20,10 @@ User Preference Editor -> Paths -> Library
 Подключение 3Д моделей:
 Setup -> Step Package Mapping -> Library
 
+Необходимо добавить MOP44.DBC в ODBC драйверы Windows. 
+
+При создании новых листов их еобходимо прописывать в файле MOP44.DBC.
+
 Распределение слоев:
 - Package Geometry/Silkscreen_Top - шелкография на верхнем слое (толщина линий 0,2 мм);
 - Package Geometry/Assembly_Top - контур компонента для обозначения в КД (толщина линий 0,15 мм);
