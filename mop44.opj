@@ -1,0 +1,33 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\mop44.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (Sort User))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\mop44.olb")
+      (Select "Design Resources" ".\mop44.olb" "ZENER_ESKD"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 333 832 22 531"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 182 1814 182 637"))
+      (Path "C:\LIB\MOP44.OLB")
+      (Package "INA1X9")
+      (PartType "1")))
+  (MPSSessionName "19vas")
+  (ISPCBBASICLICENSE "false"))
